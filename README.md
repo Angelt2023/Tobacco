@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Yerba Mate: From Sacred Drink to Caffeinated Star"
-       source-image"https://commons.wikimedia.org/wiki/File:Nicotiana_tabacum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-098.jpg"
+       source-image"https://upload.wikimedia.org/wikipedia/commons/f/fc/Nicotiana_tabacum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-098.jpg"
        banner="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nicotiana_tabacum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-098.jpg"
        author="Angel Tobar"
        layout="vertical">
