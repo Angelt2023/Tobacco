@@ -13,6 +13,13 @@
 <param ve-image label="Gauchos drinking mate" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg">
 <param ve-image label="Tobacco flower" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/5/5e/Nicotiana_tabacum_-_at_Beechanahalli_2014_%284%29.jpg">
 <param ve-image url="Nicotiana tabacum.JPG" title="Nicotiana tabacum"> 
+<param ve-entity eid="Q414" title="Argentina">
+<param ve-entity eid="Q155" title="Brazil">
+<param ve-entity eid="Q46429" title=“Guarani people”>
+<param ve-entity eid="Q84263196" title=“COVID-19 pandemic”>
+<param ve-entity eid="Q2421925" title="guachos">
+
+<param ve-video vid="h5oLF-TiE6I">
 
 ## Showing Plant Specimen
 
@@ -20,14 +27,7 @@ Cultivated at Koa Theyn Village on the island of that name, Saluen River
 
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.k001132456"> 
 
-<param ve-entity eid="Q414" title="Argentina">
-<param ve-entity eid="Q155" title="Brazil">
-<param ve-entity eid="Q46429" title=“Guarani people”>
-<param ve-entity eid="Q84263196" title=“COVID-19 pandemic”>
-<param ve-entity eid="Q2421925" title="guachos">
 
-
-<param ve-video vid="h5oLF-TiE6I">
 
 ## Using a Primary Source (text)
 
