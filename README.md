@@ -1,7 +1,7 @@
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Yerba Mate: From Sacred Drink to Caffeinated Star"
+       title="Nicotiana tabacum"
        source-image"https://upload.wikimedia.org/wikipedia/commons/f/fc/Nicotiana_tabacum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-098.jpg"
        banner="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nicotiana_tabacum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-098.jpg"
        author="Angel Tobar"
