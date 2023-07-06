@@ -20,4 +20,4 @@
 <param ve-entity eid="Q84263196" title=“COVID-19 pandemic”>
 <param ve-entity eid="Q2421925" title="guachos">
 
-<para ve-video vid="h5oLF-TiE6I">
+<param ve-video vid="h5oLF-TiE6I">
