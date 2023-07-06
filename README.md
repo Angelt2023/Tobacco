@@ -16,6 +16,8 @@
 
 ## Showing Plant Specimen
 
+Cultivated at Koa Theyn Village on the island of that name, Saluen River
+
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.k001132455">
 
 <param ve-entity eid="Q414" title="Argentina">
