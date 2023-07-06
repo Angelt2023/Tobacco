@@ -14,10 +14,15 @@
 <param ve-image label="Tobacco flower" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/5/5e/Nicotiana_tabacum_-_at_Beechanahalli_2014_%284%29.jpg">
 <param ve-image url="Nicotiana tabacum.JPG" title="Nicotiana tabacum"> 
 
+## Showing Plant Specimen
+
+<param ve-plant-specimen jpid="10.5555/al.ap.specimen.k001132455">
+
 <param ve-entity eid="Q414" title="Argentina">
 <param ve-entity eid="Q155" title="Brazil">
 <param ve-entity eid="Q46429" title=“Guarani people”>
 <param ve-entity eid="Q84263196" title=“COVID-19 pandemic”>
 <param ve-entity eid="Q2421925" title="guachos">
+
 
 <param ve-video vid="h5oLF-TiE6I">
