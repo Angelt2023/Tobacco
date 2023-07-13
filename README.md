@@ -14,7 +14,7 @@
 <param ve-compare sync url="mate.jpg"> 
 <param ve-compare url=https://upload.wikimedia.org/wikipedia/commons/5/5e/Nicotiana_tabacum_-_at_Beechanahalli_2014_%284%29.jpg">
 
-<param ve-image label="Tobacco flower" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/5/5e/Nicotiana_tabacum_-_at_Beechanahalli_2014_%284%29.jpg">
+<param ve-image label="Tobacco flower" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/4/49/Tabak_9290019.JPG">
 <param ve-image url="Nicotiana tabacum.JPG" title="Nicotiana tabacum"> 
 
 
