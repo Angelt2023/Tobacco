@@ -17,6 +17,12 @@
 <param ve-image label="Tobacco flower" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/4/49/Tabak_9290019.JPG">
 <param ve-image url="Nicotiana tabacum.JPG" title="Nicotiana tabacum"> 
 
+<param ve-knightlabe-timeline
+source="1kyKgy5YKmtDXnzEk-40YUR9FJdTfLaZJ-Gfh3gwa4Pg"
+timenav-position="bottom"
+hash-bookmark="false"
+initial-zoom="1"
+height="750"> 
 
 <param ve-video vid="h5oLF-TiE6I">
 
@@ -26,12 +32,7 @@ Cultivated at Koa Theyn Village on the island of that name, Saluen River
 
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.k001132456"> 
 
-<param ve-knightlabe-timeline
-source="1kyKgy5YKmtDXnzEk-40YUR9FJdTfLaZJ-Gfh3gwa4Pg"
-timenav-position="bottom"
-hash-bookmark="false"
-initial-zoom="1"
-height="750"> 
+
 
 
 ## Using a Primary Source (text)
