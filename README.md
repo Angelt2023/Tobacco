@@ -24,6 +24,9 @@ hash-bookmark="false"
 initial-zoom="1"
 height="750"> 
 
+<param ve-map basemap="ersi_worldphysical">
+
+       
 <param ve-video vid="h5oLF-TiE6I">
 
 ## Showing Plant Specimen
