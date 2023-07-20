@@ -13,7 +13,7 @@
 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/08/Nicotiana_tabacum_feuilles_hach%C3%A9es_Laos.jpg">
 
-<param ve-map title="world map">
+<param ve-map title="world map" center=-8.309467, -51.675597" zoom="6">
 
 
 
